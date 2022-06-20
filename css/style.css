@@ -1,0 +1,31 @@
+ *{
+    text-align: center;
+    background-color: blueviolet;
+} 
+h1{
+    color: brown;
+}
+#heading-one{
+    color: blue;
+}
+.heading{
+    color: bisque;
+}
+.three{
+    text-align: center;
+ 
+input,
+#heading-one,.three
+,p{
+    font-size: 50px;
+ }  
+
+
+}
+#btn{
+    background-color: bisque;
+}
+#btn:hover {
+    background-color: azure;
+}
+
